@@ -15,7 +15,7 @@
         <form action="resultado.jsp">
             <p>Nombre: <input type="text" name="nombre" size="40"></p>
             <p>Salario bruto: <input type="number" name="salbruto"></p>
-            <input type="submit" value="calcular"></p>
+            <p><input type="submit" value="calcular"></p>
         </form>
     </body>
 </html>
