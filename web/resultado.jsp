@@ -18,12 +18,12 @@
             float salbrut=Integer.parseInt(request.getParameter("salbruto"));
             String mensaje;
             if (salbrut>1000 && <3000){
-                float retencion=salbrut*0,1;
+                float retencion="10%";
                 float salneto=salbrut-(salbrut*0,1);
                 
             }
             if (salbrut>3000){
-                float retencion=salbrut*0,2;
+                float retencion="20%";
                 float salneto=salbrut-(salbrut*0,2);
             }
             else{
