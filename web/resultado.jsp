@@ -37,6 +37,5 @@
         <%="<p>Retencion: " + retencion +"<p>"%>
         <%="<p>Salario neto: " + salneto +"<p>"%>
        
-        <br><a href="index.jsp">Volver</a>
     </body>
 </html>
